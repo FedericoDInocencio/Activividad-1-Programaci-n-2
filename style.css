@@ -1,0 +1,43 @@
+body{
+   background-image: linear-gradient( rgb(0, 0, 0),rgb(0, 63, 92))
+}
+
+h1{
+    color: azure;
+}
+h3{
+    color: azure;
+}
+
+label{
+    color: azure;
+}
+ol{
+    color: azure;
+}
+p{
+    color: aliceblue;
+}
+b{
+    color: aliceblue;
+}
+.card{
+    background-color: rgb(179, 179, 179);
+    
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+tbody{
+    color: aliceblue;
+
+}
+th{
+    color: aliceblue;
+    
+}
+form{
+    color: aliceblue; 
+}
